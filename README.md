@@ -3,7 +3,7 @@
 ![Lab Architecture](architecture/mermaid-diagram.png)
 
 Simulating web attacks against **DVWA** and analyzing security telemetry using **IDS** and **SIEM**.  
-using BKCS lab environment: [`SEED`](https://drive.google.com/file/d/1kCTv1g91it2-owfJJbsQAnxw2l6vo1wT/view?usp=sharing)
+<sub><i>using BKCS lab environment: <a href="https://drive.google.com/file/d/1kCTv1g91it2-owfJJbsQAnxw2l6vo1wT/view?usp=sharing">SEED</a></i></sub>
 
 ## Skills & Technologies
 **Security:** Web attack detection, Log analysis, IDS monitoring  
