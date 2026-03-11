@@ -29,3 +29,8 @@ Security investigation workflow:
 ---
 
 **Objective:** Understand how web attacks generate logs, IDS alerts, and SIEM telemetry within a SOC monitoring pipeline.
+
+![security-lab](https://img.shields.io/badge/type-security_lab-red)
+![blue-team](https://img.shields.io/badge/focus-blue_team-blue)
+![siem](https://img.shields.io/badge/tool-Splunk-orange)
+![ids](https://img.shields.io/badge/IDS-Snort-green)
