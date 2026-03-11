@@ -3,9 +3,12 @@
 ![Lab Architecture](architecture/mermaid-diagram.png)
 
 Simulating web attacks against **DVWA** and analyzing security telemetry using **IDS** and **SIEM**.  
-<sub><i>using BKCS lab environment: <a href="https://drive.google.com/file/d/1kCTv1g91it2-owfJJbsQAnxw2l6vo1wT/view?usp=sharing">SEED</a></i></sub>
-<sub><i>attacks against the vulnerable web application
- <a href="https://github.com/digininja/DVWA">[DVWA]</a></i></sub>
+<sub><i>using BKCS lab environment: <a href="https://drive.google.com/file/d/1kCTv1g91it2-owfJJbsQAnxw2l6vo1wT/view?usp=sharing">SEED</a></i></sub>  
+<sub><i>attacks against the vulnerable web application:
+ <a href="https://github.com/digininja/DVWA">[DVWA]</a></i></sub>  
+ <sub><i>The simulated attacks relate to common vulnerabilities from
+ <a href="https://owasp.org/www-project-top-ten/">[OWASP Top 10]</a></i></sub>
+ 
 ## Skills & Technologies
 **Security:** Web attack detection, Log analysis, IDS monitoring  
 **Networking:** TCP/IP, HTTP traffic analysis  
